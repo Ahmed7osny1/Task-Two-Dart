@@ -29,10 +29,3 @@
 - **Insertion Sort** builds a sorted array by inserting elements in the correct position.
 - **Insertion Sort** performs better on nearly sorted data (`O(n)` best case).
 
----
-
-## **Sources & Further Reading**
-- [Binary Search vs. Linear Search](https://www.ijariit.com/conference-proceedings/15%20CSE%20107.pdf)
-- [Sorting Algorithms Comparison](https://www.enjoyalgorithms.com/blog/introduction-to-sorting-bubble-sort-selection-sort-and-insertion-sort/)
-
-
